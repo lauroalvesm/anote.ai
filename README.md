@@ -1,6 +1,7 @@
 # Anote.Ai
 
 ![Logo01](https://github.com/lauroalvesm/anote.ai/assets/168467525/a025c636-42ff-403a-be53-0526335e3533)
+<img width="217" alt="Logo02" src="https://github.com/lauroalvesm/anote.ai/assets/168467525/0eb9756a-08f5-4259-b60b-af10985b8998">
 
 ## Getting Started
 
