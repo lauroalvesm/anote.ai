@@ -1,6 +1,6 @@
-# projeto_teste
+# Anote.Ai
 
-Meu primeiro app em flutter
+![Logo01](https://github.com/lauroalvesm/anote.ai/assets/168467525/a025c636-42ff-403a-be53-0526335e3533)
 
 ## Getting Started
 
